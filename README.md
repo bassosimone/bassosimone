@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[LinkedIn](https://www.linkedin.com/in/bassosimone/) [X](https://x.com/bassosimone) [Google Scholar](https://scholar.google.com/citations?user=f_TerfgAAAAJ&hl=en)
-
 I'm Simone and I am a research engineer.
 
 Below is a short summary of my experience:
@@ -15,6 +13,11 @@ Below is a short summary of my experience:
 - ✨ Participated to the [TOP-IX](https://www.top-ix.org/) [BIG DIVE](https://github.com/bigdive) training program.
 - ✨ PhD in computer science at [POLITO](https://www.polito.it/) with [J.C. De Martin](https://demartin.polito.it/).
 - ✨ Mentored several BSc, MEng, and GSoC students.
+
+## CV
+
+- [[LinkedIn]](https://www.linkedin.com/in/bassosimone/)
+- [[Scholar]](https://scholar.google.com/citations?user=f_TerfgAAAAJ&hl=en)
 
 ## Open-Source Projects
 
