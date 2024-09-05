@@ -22,7 +22,7 @@ You can read my CV on [LinkedIn](https://www.linkedin.com/in/bassosimone/) and s
 
 - [ooni/probe-cli](https://github.com/ooni/probe-cli): I maintained and lead the development this repository (and the [OONI](https://ooni.org/) measurement engine written in Go) between 2019 and 2024.
 
-- [bassosimone/websteps-illustrated](https://github.com/bassosimone/websteps-illustrated): I wrote this new experiment for measuring websites blocking in 2022-2024 and incorporated core ideas into [OONI](https://ooni.org/) [Web Connectivity v0.5 experiment](https://github.com/ooni/probe-cli/tree/v3.23.0/internal/experiment/webconnectivitylte).
+- [bassosimone/websteps-illustrated](https://github.com/bassosimone/websteps-illustrated): I wrote this new experimental experiment for exploring improving websites blocking measurement techniques in 2022-2024 and incorporated core ideas into [OONI](https://ooni.org/) [Web Connectivity v0.5 experiment](https://github.com/ooni/probe-cli/tree/v3.23.0/internal/experiment/webconnectivitylte).
 
 - [measurement-kit/measurement-kit](https://github.com/measurement-kit/measurement-kit): I wrote and maintained this library between 2013 and 2020 to provide an [OONI](https://ooni.org/), [Neubot](https://github.com/neubot/neubot), and [NDTv5](https://github.com/ndt-project/ndt) measurement engine. Measurement Kit was used by OONI (in 2017-2020) as well as other integrators to perform network performance and internet censorship measurements.
 
