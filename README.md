@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there! 🙌
 
-I'm Simone and I am a research engineer.
-
-Below is a short summary of my experience:
+I'm Simone and I am a research engineer. Below is a short summary of my experience:
 
 - ✨ Ten years of experience measuring internet performance and internet censorship.
 - ✨ Wrote an maintained the network measurement engines used by [OONI](https://ooni.org/) in 2014-2024.
