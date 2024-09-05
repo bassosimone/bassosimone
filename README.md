@@ -21,27 +21,14 @@ Below is a short summary of my experience:
 
 ## Open-Source Projects
 
-- [neubot/dash](https://github.com/neubot/dash)
+- [neubot/dash](https://github.com/neubot/dash): I still maintain this project, which implements a client and server for the Neubot [DASH streaming experiment](https://github.com/ooni/spec/blob/master/nettests/ts-021-dash.md).
 
-I still maintain this project, which implements a client and server for the Neubot [DASH streaming experiment](https://github.com/ooni/spec/blob/master/nettests/ts-021-dash.md).
+- [ooni/probe-cli](https://github.com/ooni/probe-cli): I maintained and lead the development this repository (and the OONI measurement engine written in Go) between 2019 and 2024.
 
-- [ooni/probe-cli](https://github.com/ooni/probe-cli)
+- [bassosimone/websteps-illustrated](https://github.com/bassosimone/websteps-illustrated): I wrote this new experiment for measuring websites blocking in 2022-2024 and incorporated core ideas into [OONI](https://ooni.org/) Web Connectivity v0.5 experiment.
 
-I maintained and lead the development this repository (and the OONI measurement engine written in Go) between 2019 and 2024.
+- [measurement-kit/measurement-kit](https://github.com/measurement-kit/measurement-kit): I wrote and maintained this library between 2013 and 2020 to provide an OONI, Neubot, and NDT measurement engine. This engine was used by OONI as well as other integrators to perform network performance and internet censorship measurements.
 
-- [bassosimone/websteps-illustrated](https://github.com/bassosimone/websteps-illustrated)
+- [m-lab/ndt-server](https://github.com/m-lab/ndt-server): I contributed to this repository in 2018-2020 to implement the next-generation Network Diagnostic Tool iteration, also known as ndt7.
 
-I wrote this new experiment for measuring websites blocking in 2022-2024 and incorporated core ideas into [OONI](https://ooni.org/) Web Connectivity v0.5 experiment.
-
-- [measurement-kit/measurement-kit](https://github.com/measurement-kit/measurement-kit)
-
-I wrote and maintained this library between 2013 and 2020 to provide an OONI, Neubot, and NDT measurement engine. This engine was used by OONI
-as well as other integrators to perform network performance and internet censorship measurements.
-
-- [m-lab/ndt-server](https://github.com/m-lab/ndt-server)
-
-I contributed to this repository in 2018-2020 to implement the next-generation Network Diagnostic Tool iteration, also known as ndt7.
-
-- [neubot/neubot](https://github.com/neubot/neubot)
-
-I wrote this project as a doctoral student and maintained it between 2010 and 2020 (with most of the development occurring in 2010-2014 during my doctorate).
+- [neubot/neubot](https://github.com/neubot/neubot): I wrote this project as a doctoral student and maintained it between 2010 and 2020 (with most of the development occurring in 2010-2014 during my doctorate).
