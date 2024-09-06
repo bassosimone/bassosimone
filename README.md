@@ -20,7 +20,7 @@ You can read my CV on [LinkedIn](https://www.linkedin.com/in/bassosimone/) and s
 
 - [neubot/dash](https://github.com/neubot/dash): I still maintain this project, which implements a client and server for the Neubot [DASH streaming experiment](https://github.com/ooni/spec/blob/master/nettests/ts-021-dash.md).
 
-- [ooni/probe-cli](https://github.com/ooni/probe-cli): I maintained and lead the development this repository (and the [OONI](https://ooni.org/) measurement engine written in Go) between 2019 and 2024.
+- [ooni/probe-cli](https://github.com/ooni/probe-cli): I maintained and led the development this repository (and the [OONI](https://ooni.org/) measurement engine written in Go) between 2019 and 2024.
 
 - [bassosimone/websteps-illustrated](https://github.com/bassosimone/websteps-illustrated): I wrote this new experimental experiment for exploring improving websites blocking measurement techniques in 2022-2024 and incorporated core ideas into [OONI](https://ooni.org/) [Web Connectivity v0.5 experiment](https://github.com/ooni/probe-cli/tree/v3.23.0/internal/experiment/webconnectivitylte).
 
