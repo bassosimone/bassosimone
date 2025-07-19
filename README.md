@@ -4,7 +4,7 @@ I'm Simone and I am a research engineer. Below is a short summary of my experien
 
 - ✨ Ten years of experience measuring internet performance and internet censorship.
 - ✨ Wrote an maintained the network measurement engines used by [OONI](https://ooni.org/) in 2014-2024.
-- ✨ Let the development of the next-generation Network Diagnostic Tool (ndt7) used by [M-Lab](https://measurementlab.net/).
+- ✨ Led the development of the next-generation Network Diagnostic Tool (ndt7) used by [M-Lab](https://measurementlab.net/).
 - ✨ Led the development of the [Network neutrality bot](https://github.com/neubot/neubot) in 2010-2020.
 - ✨ Worked at [OONI](https://ooni.org/) (2019-2024) and [Nexa Center](https://nexa.polito.it/) (2010-2017).
 - ✨ [OTF](https://www.opentech.fund/) Information Controls Fellow in 2017-2018.
