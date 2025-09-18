@@ -19,7 +19,9 @@ led the R&D related to the [measurement engine](https://github.com/ooni/probe-cl
 
 In 2025, I worked at [@fbk-most](https://github.com/fbk-most) on
 [civic digital twins](https://github.com/fbk-most/civic-digital-twins)
-modeling. I currently contribute to [@m-lab](https://github.com/m-lab) and
+modeling, where I helped to improve the digital-twin's model compiler.
+
+I currently contribute to [@m-lab](https://github.com/m-lab) and
 [@leapcode](https://github.com/leapcode) and maintaining a few hobby
 open-source projects and measurement tools.
 
