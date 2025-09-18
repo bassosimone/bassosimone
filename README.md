@@ -1,18 +1,27 @@
 ### Hi there! 🙌
 
-I'm Simone and I am a research engineer. Below is a short summary of my experience:
+I'm Simone, a research engineer with over a decade of experience in network
+measurement and internet freedom research. I started at
+[@nexacenter](https://github.com/nexacenter) where I began developing
+the [Network neutrality bot](https://github.com/neubot/neubot)
+during my PhD in computer science at [POLITO](https://www.polito.it/) (2011-2014).
 
-- ✨ [@m-lab](https://github.com/m-lab) and [@leapcode](https://github.com/leapcode) contributor.
-- ✨ Worked at [@fbk-most](https://github.com/fbk-most) on [civic-digital-twins](https://github.com/fbk-most/civic-digital-twins) modelling in 2025.
-- ✨ Ten years of experience measuring internet performance and internet censorship.
-- ✨ Wrote an maintained the network measurement engines used by [@ooni](https://github.com/ooni) in 2014-2024.
-- ✨ Led the development of the next-generation Network Diagnostic Tool (ndt7) used by [@m-lab](https://github.com/m-lab).
-- ✨ Led the development of the [Network neutrality bot](https://github.com/neubot/neubot) in 2010-2020.
-- ✨ Worked at [@ooni](https://github.com/ooni) (2019-2024) and [@nexacenter](https://github.com/nexacenter) (2010-2017).
-- ✨ [OTF](https://www.opentech.fund/) Information Controls Fellow in 2017-2018.
-- ✨ Participated to the [TOP-IX](https://www.top-ix.org/) [BIG DIVE](https://github.com/bigdive) training program in 2015.
-- ✨ PhD in computer science in 2014 at [POLITO](https://www.polito.it/) with [J.C. De Martin](https://demartin.polito.it/).
-- ✨ Mentored several BSc, MEng, and GSoC students.
+After my PhD, I continued this work in postdoc research,
+creating [Measurement Kit](https://github.com/measurement-kit/measurement-kit)
+and contributing to [@ooni](https://github.com/ooni). This collaboration
+deepened during my [OTF](https://www.opentech.fund/) Information Controls Fellowship
+in 2018, hosted by [@m-lab](https://github.com/m-lab), where I focused
+on advancing Measurement Kit as OONI's measurement engine and began contributing
+to [@m-lab](https://github.com/m-lab)'s next-generation
+[Network Diagnostic Tool (ndt7)](https://github.com/m-lab/ndt-server). In
+2019, I officially joined the [@ooni](https://github.com/ooni) team, where I
+led the R&D related to the [measurement engine](https://github.com/ooni/probe-cli).
+
+In 2025, I worked at [@fbk-most](https://github.com/fbk-most) on
+[civic digital twins](https://github.com/fbk-most/civic-digital-twins)
+modeling. I currently contribute to [@m-lab](https://github.com/m-lab) and
+[@leapcode](https://github.com/leapcode) and maintaining a few hobby
+open-source projects and measurement tools.
 
 ## CV & Publications
 
