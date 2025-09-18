@@ -31,7 +31,7 @@ You can read my CV on [LinkedIn](https://www.linkedin.com/in/bassosimone/) and s
 
 ## Open-Source Projects
 
-- [neubot/dash](https://github.com/neubot/dash): I still maintain this project, which implements a client and server for the Neubot [DASH streaming experiment](https://github.com/ooni/spec/blob/master/nettests/ts-021-dash.md).
+### Professional & Research Projects
 
 - [ooni/probe-cli](https://github.com/ooni/probe-cli): I maintained and led the development of this project (and the [OONI](https://ooni.org/) measurement engine written in Go) between 2019 and 2024.
 
@@ -43,8 +43,12 @@ You can read my CV on [LinkedIn](https://www.linkedin.com/in/bassosimone/) and s
 
 - [neubot/neubot](https://github.com/neubot/neubot): I wrote this project as a doctoral student and maintained it between 2010 and 2020 (with most of the development and the related research papers happening in 2010-2014 during my doctorate).
 
-- [rbmk-project/rbmk](https://github.com/rbmk-project/rbmk): command-line network-measurement tool for measuring internet censorship and performance (this is an hobby project).
+- [neubot/dash](https://github.com/neubot/dash): I still maintain this project, which implements a client and server for the Neubot [DASH streaming experiment](https://github.com/ooni/spec/blob/master/nettests/ts-021-dash.md).
 
-- [bassosimone/vsos](https://github.com/bassosimone/vsos): very-simple operating system (this is an hobby project).
+### Hobby Projects
 
-- [bassosimone/minimk](https://github.com/bassosimone/minimk): minimal network measurement kit in C++ (this is an hobby project).
+- [rbmk-project/rbmk](https://github.com/rbmk-project/rbmk): command-line network-measurement tool for measuring internet censorship and performance.
+
+- [bassosimone/vsos](https://github.com/bassosimone/vsos): very-simple operating system.
+
+- [bassosimone/minimk](https://github.com/bassosimone/minimk): minimal network measurement kit in C++.
