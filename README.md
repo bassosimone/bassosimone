@@ -23,7 +23,7 @@ modeling, where I helped to improve the digital-twin's model compiler.
 
 I currently contribute to [@m-lab](https://github.com/m-lab) and
 [@leapcode](https://github.com/leapcode) and maintaining a few hobby
-open-source projects and measurement tools.
+open-source projects.
 
 ## CV & Publications
 
