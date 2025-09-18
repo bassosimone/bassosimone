@@ -31,3 +31,9 @@ You can read my CV on [LinkedIn](https://www.linkedin.com/in/bassosimone/) and s
 - [m-lab/ndt-server](https://github.com/m-lab/ndt-server): I contributed to this repository in 2018-2020 to implement the next-generation Network Diagnostic Tool (NDT) iteration, also known as [ndt7](https://github.com/m-lab/ndt-server/blob/v0.22.0/spec/ndt7-protocol.md).
 
 - [neubot/neubot](https://github.com/neubot/neubot): I wrote this project as a doctoral student and maintained it between 2010 and 2020 (with most of the development and the related research papers happening in 2010-2014 during my doctorate).
+
+- [rbmk-project/rbmk](https://github.com/rbmk-project/rbmk): command-line network-measurement tool for measuring internet censorship and performance (this is an hobby project).
+
+- [bassosimone/vsos](https://github.com/bassosimone/vsos): very-simple operating system (this is an hobby project).
+
+- [bassosimone/minimk](https://github.com/bassosimone/minimk): minimal network measurement kit in C++ (this is an hobby project).
