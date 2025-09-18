@@ -22,7 +22,7 @@ In 2025, I worked at [@fbk-most](https://github.com/fbk-most) on
 modeling, where I helped to improve the digital-twin's model compiler.
 
 I currently contribute to [@m-lab](https://github.com/m-lab) and
-[@leapcode](https://github.com/leapcode) and maintaining a few hobby
+[@leapcode](https://github.com/leapcode) and maintain a few, hobby
 open-source projects.
 
 ## CV & Publications
