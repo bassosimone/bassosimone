@@ -3,7 +3,7 @@
 I'm Simone and I am a research engineer. Below is a short summary of my experience:
 
 - ✨ [@m-lab](https://github.com/m-lab) and [@leapcode](https://github.com/leapcode) contributor.
-- ✨ Worked at [@fbk-most](https://github.com/fbk-most) on [civic-digital-twins modelling](https://github.com/fbk-most/civic-digital-twins) in 2025.
+- ✨ Worked at [@fbk-most](https://github.com/fbk-most) on [civic-digital-twins](https://github.com/fbk-most/civic-digital-twins) modelling in 2025.
 - ✨ Ten years of experience measuring internet performance and internet censorship.
 - ✨ Wrote an maintained the network measurement engines used by [@ooni](https://github.com/ooni) in 2014-2024.
 - ✨ Led the development of the next-generation Network Diagnostic Tool (ndt7) used by [@m-lab](https://github.com/m-lab).
