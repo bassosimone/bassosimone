@@ -5,10 +5,10 @@ I'm Simone and I am a research engineer. Below is a short summary of my experien
 - ✨ [@m-lab](https://github.com/m-lab) and [@leapcode](https://github.com/leapcode) contributor.
 - ✨ Worked at [@fbk-most](https://github.com/fbk-most) on [civic-digital-twins modelling](https://github.com/fbk-most/civic-digital-twins) in 2025.
 - ✨ Ten years of experience measuring internet performance and internet censorship.
-- ✨ Wrote an maintained the network measurement engines used by [OONI](https://ooni.org/) in 2014-2024.
-- ✨ Led the development of the next-generation Network Diagnostic Tool (ndt7) used by [M-Lab](https://measurementlab.net/).
+- ✨ Wrote an maintained the network measurement engines used by [@ooni](https://github.com/ooni) in 2014-2024.
+- ✨ Led the development of the next-generation Network Diagnostic Tool (ndt7) used by [@m-lab](https://github.com/m-lab).
 - ✨ Led the development of the [Network neutrality bot](https://github.com/neubot/neubot) in 2010-2020.
-- ✨ Worked at [OONI](https://ooni.org/) (2019-2024) and [Nexa Center](https://nexa.polito.it/) (2010-2017).
+- ✨ Worked at [@ooni](https://github.com/ooni) (2019-2024) and [@nexacenter](https://github.com/nexacenter) (2010-2017).
 - ✨ [OTF](https://www.opentech.fund/) Information Controls Fellow in 2017-2018.
 - ✨ Participated to the [TOP-IX](https://www.top-ix.org/) [BIG DIVE](https://github.com/bigdive) training program in 2015.
 - ✨ PhD in computer science in 2014 at [POLITO](https://www.polito.it/) with [J.C. De Martin](https://demartin.polito.it/).
